@@ -1,1 +1,1 @@
-# code reader privacy policy
+# privacy policy
