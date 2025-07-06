@@ -73,6 +73,17 @@ URL、Wi-Fi設定、カレンダーイベント、連絡先、電話番号、メ
 
 <img src="https://github.com/user-attachments/assets/034eb43c-299a-46c8-98b5-2fbbd0d97c09" width="30%"> <img src="https://github.com/user-attachments/assets/0db7e37c-c1c2-4412-afb4-5f8cf5db2c63" width="30%">
 
+#### URL形式のQRコード作成
+
+| 入力 | バリデーション | ブラウザ確認 | 作成前確認 | 作成完了 | QR共有 | URLコピー |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| <img src="https://github.com/user-attachments/assets/c9f37532-852a-477a-b126-0ee97f16baf8"> | <img src="https://github.com/user-attachments/assets/d400f49d-5d6c-4900-b231-e2d250d55158"> | <img src="https://github.com/user-attachments/assets/099271ad-3407-4f4e-b179-9b688afb7bc2"> | <img src="https://github.com/user-attachments/assets/be9ed197-f2d3-4813-ab1e-78dfe432fe99"> | <img src="https://github.com/user-attachments/assets/0413e149-4509-4ae2-b05c-7a138b8866ff"> | <img src="https://github.com/user-attachments/assets/2c8d52b8-4532-4fa1-a021-666a487e1446"> | <img src="https://github.com/user-attachments/assets/5798f457-bdcf-40c0-8c01-c19e6cb80775"> |
+
+
+
+
+
+
 ### 作成済みQRコード一覧
 
 ### 作成済みQRコード詳細
