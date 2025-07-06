@@ -17,6 +17,7 @@ Google Play Storeに同様のアプリが多数存在するが、モダンなUI�
 * Adaptive Navigation Suite
 * DataStore
 * Room
+* Google Code Scanner
 * MlKit
 * Zixing
 * Chrome Custom Tabs
@@ -85,6 +86,19 @@ Google Play Storeに同様のアプリが多数存在するが、モダンなUI�
 ### 絞り込み
 
 ### 設定
+
+| ライトモード | ダイナミックテーマ | ダークモード |
+| ---- | ---- | ---- |
+| <img src="https://github.com/user-attachments/assets/9ba6adf5-f918-4dfb-b243-a1b5aba11d9e">| <img src="https://github.com/user-attachments/assets/b2362eb5-6377-4a53-93bc-b15c31eb86eb"> |<img src="https://github.com/user-attachments/assets/e25a8710-ee75-41f6-a405-85e2de8fea38">|
+
+
+
+
+
+
+
+
+
 
 ### スキャン設定
 
