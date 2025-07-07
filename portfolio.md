@@ -104,7 +104,7 @@ URL、Wi-Fi設定、カレンダーイベント、連絡先、電話番号、メ
 
 | ライトモード | ダイナミックテーマ | ダークモード |
 | ---- | ---- | ---- |
-| <img src="https://github.com/user-attachments/assets/9ba6adf5-f918-4dfb-b243-a1b5aba11d9e">| <img src="https://github.com/user-attachments/assets/b2362eb5-6377-4a53-93bc-b15c31eb86eb"> |<img src="https://github.com/user-attachments/assets/e25a8710-ee75-41f6-a405-85e2de8fea38">|
+| ![lightmode](images/settings/lightmode.png)| ![dynamic](images/settings/dynamic.png) | ![dark](images/settings/dark.png) |
 
 
 
