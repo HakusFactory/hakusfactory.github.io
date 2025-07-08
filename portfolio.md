@@ -165,6 +165,20 @@ URL、Wi-Fi設定、カレンダーイベント、連絡先、電話番号、メ
     <img src="images/create/sms/complete.png" width="150"/>
 </p>
 
+#### 位置情報形式のQRコード作成
+
+<p float="left">
+    <img src="images/create/geo/permission.png" width="150"/>
+    <img src="images/create/geo/input.png" width="150"/>
+    <img src="images/create/geo/map.png" width="150"/>
+    <img src="images/create/geo/validation.png" width="150"/>
+    <img src="images/create/geo/confirm.png" width="150"/>
+    <img src="images/create/geo/complete.png" width="150"/>
+    <img src="images/create/geo/request_gps.png" width="150"/>
+    <img src="images/create/geo/denied_permisson.png" width="150"/>
+    <img src="images/create/geo/app_setting.png" width="150"/>
+</p>
+
 ### 作成済みQRコード一覧
 
 ### 作成済みQRコード詳細
