@@ -80,9 +80,10 @@ URL、Wi-Fi設定、カレンダーイベント、連絡先、電話番号、メ
 | <img src="https://github.com/user-attachments/assets/c9f37532-852a-477a-b126-0ee97f16baf8"> | <img src="https://github.com/user-attachments/assets/d400f49d-5d6c-4900-b231-e2d250d55158"> | <img src="https://github.com/user-attachments/assets/099271ad-3407-4f4e-b179-9b688afb7bc2"> | <img src="https://github.com/user-attachments/assets/be9ed197-f2d3-4813-ab1e-78dfe432fe99"> | <img src="https://github.com/user-attachments/assets/0413e149-4509-4ae2-b05c-7a138b8866ff"> | <img src="https://github.com/user-attachments/assets/2c8d52b8-4532-4fa1-a021-666a487e1446"> | <img src="https://github.com/user-attachments/assets/5798f457-bdcf-40c0-8c01-c19e6cb80775"> |
 
 #### Wi-Fi設定情報形式のQRコード作成
+
 | プレースホルダー | 入力 | プルダウン | 作成前確認 | 作成完了 |
 | ---- | ---- | ---- | ---- | ---- |
-| <img src="https://github.com/user-attachments/assets/0ec98a50-e358-438a-a117-7dab76133951"> | <img src="https://github.com/user-attachments/assets/2de9e6ab-0bd5-41de-8f95-7fab0f8dbafd"> | <img src="https://github.com/user-attachments/assets/e37e1d70-988a-466f-a2bf-a628457d1100"> | <img src="https://github.com/user-attachments/assets/65ec8ae9-0f7f-44a9-9e2c-81b385374f79"> | <img src="https://github.com/user-attachments/assets/a881b9ac-58f8-4b0e-ace5-7c224411247c"> |
+| ![placeholder](images/create/wifi/placeholder.png) | ![input](images/create/wifi/input.png) | ![pulldown](images/create/wifi/pulldown.png) | ![confirm](images/create/wifi/confirm.png) | ![complete](images/create/wifi/complete.png) |
 
 ### 作成済みQRコード一覧
 
