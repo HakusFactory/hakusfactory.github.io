@@ -190,6 +190,15 @@ URL、Wi-Fi設定、カレンダーイベント、連絡先、電話番号、メ
 
 ### 作成済みQRコード一覧
 
+<p float="left">
+    <img src="images/created/list.png" width="150"/>
+    <img src="images/created/menu1.png" width="150"/>
+    <img src="images/created/selsected.png" width="150"/>
+    <img src="images/created/confirm.png" width="150"/>
+    <img src="images/created/all_selected.png" width="150"/>
+    <img src="images/created/empty.png" width="150"/>
+</p>
+
 ### 作成済みQRコード詳細
 
 ### スキャン
