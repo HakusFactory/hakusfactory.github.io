@@ -112,7 +112,27 @@ URL、Wi-Fi設定、カレンダーイベント、連絡先、電話番号、メ
     <img src="images/create/event/confirm.png" width="150"/>
     <img src="images/create/event/complate1.png" width="150"/>
     <img src="images/create/event/complete2.png" width="150"/>
-</p>  
+</p>
+
+#### 連絡先形式のQRコード作成
+
+<p float="left">
+    <img src="images/create/contact/placeholder1.png" width="150"/>
+    <img src="images/create/contact/placeholder2.png" width="150"/>
+    <img src="images/create/contact/add_phone.png" width="150"/>
+    <img src="images/create/contact/add_mail.png" width="150"/>
+    <img src="images/create/contact/phone_label_dialog.png" width="150"/>
+    <img src="images/create/contact/input1.png" width="150"/>
+    <img src="images/create/contact/mail_label_dialog.png" width="150"/>
+    <img src="images/create/contact/input2.png" width="150"/>
+    <img src="images/create/contact/input3.png" width="150"/>
+    <img src="images/create/contact/input4.png" width="150"/>
+    <img src="images/create/contact/validation.png" width="150"/>
+    <img src="images/create/contact/confirm.png" width="150"/>
+    <img src="images/create/contact/conmlete1.png" width="150"/>
+    <img src="images/create/contact/complete2.png" width="150"/>
+</p>
+
 
 ### 作成済みQRコード一覧
 
