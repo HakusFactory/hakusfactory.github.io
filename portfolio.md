@@ -143,6 +143,17 @@ URL、Wi-Fi設定、カレンダーイベント、連絡先、電話番号、メ
     <img src="images/create/phone/complete.png" width="150"/>
 </p>
 
+#### メール形式のQRコード作成
+
+<p float="left">
+    <img src="images/create/mail/placeholder.png" width="150"/>
+    <img src="images/create/mail/input1.png" width="150"/>
+    <img src="images/create/mail/validation.png" width="150"/>
+    <img src="images/create/mail/input2.png" width="150"/>
+    <img src="images/create/mail/confirm.png" width="150"/>
+    <img src="images/create/mail/complete1.png" width="150"/>
+    <img src="images/create/mail/complete2.png" width="150"/>
+</p>
 
 ### 作成済みQRコード一覧
 
