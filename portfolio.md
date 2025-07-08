@@ -155,6 +155,16 @@ URL、Wi-Fi設定、カレンダーイベント、連絡先、電話番号、メ
     <img src="images/create/mail/complete2.png" width="150"/>
 </p>
 
+#### SMS形式のQRコード作成
+
+<p float="left">
+    <img src="images/create/sms/placeholder.png" width="150"/>
+    <img src="images/create/sms/input.png" width="150"/>
+    <img src="images/create/sms/validation.png" width="150"/>
+    <img src="images/create/sms/confirm.png" width="150"/>
+    <img src="images/create/sms/complete.png" width="150"/>
+</p>
+
 ### 作成済みQRコード一覧
 
 ### 作成済みQRコード詳細
