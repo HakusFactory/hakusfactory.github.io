@@ -215,6 +215,8 @@ URL、Wi-Fi設定、カレンダーイベント、連絡先、電話番号、メ
     <img src="images/created/detail/sms.png" width="150"/>
     <img src="images/created/detail/geo.png" width="150"/>
     <img src="images/created/detail/text.png" width="150"/>
+    <img src="images/created/detail/share.png" width="150"/>
+    <img src="images/created/detail/delete.png" width="150"/>
 </p>
 
 ### スキャン
