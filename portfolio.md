@@ -192,6 +192,7 @@ URL、Wi-Fi設定、カレンダーイベント、連絡先、電話番号、メ
 
 <p float="left">
     <img src="images/created/list.png" width="150"/>
+    <img src="images/created/list2.png" width="150"/>
     <img src="images/created/menu1.png" width="150"/>
     <img src="images/created/selsected.png" width="150"/>
     <img src="images/created/confirm.png" width="150"/>
