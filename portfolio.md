@@ -76,32 +76,17 @@ Google Play Storeに同様のアプリが多数存在するが、モダンなUI�
 
 ![home](images/home/home.png)
 
-### QRコードをつくる
+### QR作成種類選択
 
 ![create](images/create/create.png)
 
 #### URL形式のQRコード作成
 
-<p float="left">
-    <img src="images/create/url/placeholder.png" width="150"/>
-    <img src="images/create/url/input.png" width="150"/>
-    <img src="images/create/url/validation.png" width="150"/>
-    <img src="images/create/url/confirm.png" width="150"/>
-    <img src="images/create/url/complete.png" width="150"/>
-    <img src="images/create/url/browse_confirm.png" width="150"/>
-    <img src="images/create/url/share_qr.png" width="150"/>
-    <img src="images/create/url/copy.png" width="150"/>
-</p>
+![url](images/create/url/create_url.png)
 
 #### Wi-Fi設定情報形式のQRコード作成
 
-<p float="left">
-    <img src="images/create/wifi/placeholder.png" width="150"/>
-    <img src="images/create/wifi/input.png" width="150"/>
-    <img src="images/create/wifi/pulldown.png" width="150"/>
-    <img src="images/create/wifi/confirm.png" width="150"/>
-    <img src="images/create/wifi/complete.png" width="150"/>
-</p>
+![url](images/create/wifi/create_wifi.png)
 
 #### カレンダーイベント形式のQRコード作成
 
