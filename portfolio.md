@@ -65,7 +65,29 @@ Google Play Storeに同様のアプリが多数存在するが、モダンなUI�
 * その他（利用規約、プライバシーポリシー、ライセンス）
 
 ## 画面
+
+### 利用規約/プライバシーポリシー
+
+<p float="left">
+    <img src="images/term/term1.png" width="150"/>
+    <img src="images/term/term2.png" width="150"/>
+    <img src="images/term/term3.png" width="150"/>
+</p>
+
 ### ホーム
+
+<p float="left">
+    <img src="images/home/empty.png" width="150"/>
+    <img src="images/home/camera_permission.png" width="150"/>
+    <img src="images/home/setup_dialog.png" width="150"/>
+    <img src="images/home/complete_setup.png" width="150"/>
+    <img src="images/home/setup_fail.png" width="150"/>
+    <img src="images/home/scaner.png" width="150"/>
+    <img src="images/home/scan.png" width="150"/>
+    <img src="images/home/scan_result.png" width="150"/>
+    <img src="images/home/favorite.png" width="150"/>
+    <img src="images/home/dark.png" width="150"/>
+</p>
 
 ### QRコードをつくる
 
