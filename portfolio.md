@@ -354,6 +354,11 @@ URL、Wi-Fi設定、カレンダーイベント、連絡先、電話番号、メ
 
 ### 検索結果詳細
 
+<p float="left">
+    <img src="images/search/detail/history.png" width="150"/>
+    <img src="images/search/detail/favorite.png" width="150"/>
+</p>
+
 ### 絞り込み
 
 ### 設定
