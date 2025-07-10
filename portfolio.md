@@ -221,7 +221,22 @@ URL、Wi-Fi設定、カレンダーイベント、連絡先、電話番号、メ
 
 ### スキャン
 
-### 履歴/お気に入り一覧
+### 履歴一覧
+
+<p float="left">
+    <img src="images/history/empty.png" width="150"/>
+    <img src="images/history/list1.png" width="150"/>
+    <img src="images/history/list2.png" width="150"/>
+    <img src="images/history/menu1.png" width="150"/>
+    <img src="images/history/menu2.png" width="150"/>
+    <img src="images/history/menu3.png" width="150"/>
+    <img src="images/history/selected.png" width="150"/>
+    <img src="images/history/delete_confirm.png" width="150"/>
+    <img src="images/history/deleted.png" width="150"/>
+</p>
+
+
+### お気に入り一覧
 
 ### 履歴/お気に入り詳細
 
