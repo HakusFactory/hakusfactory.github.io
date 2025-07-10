@@ -235,8 +235,17 @@ URL、Wi-Fi設定、カレンダーイベント、連絡先、電話番号、メ
     <img src="images/history/deleted.png" width="150"/>
 </p>
 
-
 ### お気に入り一覧
+
+<p float="left">
+    <img src="images/favorite/empty.png" width="150"/>
+    <img src="images/favorite/list.png" width="150"/>
+    <img src="images/favorite/menu1.png" width="150"/>
+    <img src="images/favorite/menu2.png" width="150"/>
+    <img src="images/favorite/menu3.png" width="150"/>
+    <img src="images/favorite/delete_confirm.png" width="150"/>
+    <img src="images/favorite/deleted.png" width="150"/>
+</p>
 
 ### 履歴/お気に入り詳細
 
