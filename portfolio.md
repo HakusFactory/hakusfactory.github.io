@@ -325,6 +325,16 @@ URL、Wi-Fi設定、カレンダーイベント、連絡先、電話番号、メ
 
 ### お気に入り詳細
 
+<p float="left">
+    <img src="images/favorite/detail/url.png" width="150"/>
+    <img src="images/favorite/detail/share_dialog.png" width="150"/>
+    <img src="images/favorite/detail/share.png" width="150"/>
+    <img src="images/favorite/detail/confirm_delete.png" width="150"/>
+    <img src="images/favorite/detail/deleted.png" width="150"/>
+    <img src="images/favorite/detail/confirm_favorite_cancel.png" width="150"/>
+    <img src="images/favorite/detail/canceled_favorite.png" width="150"/>
+</p>
+
 ### 検索一覧
 
 ### 検索結果詳細
