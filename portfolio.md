@@ -359,41 +359,13 @@ URL、Wi-Fi設定、カレンダーイベント、連絡先、電話番号、メ
     <img src="images/search/detail/favorite.png" width="150"/>
 </p>
 
-### 絞り込み
-
 ### 設定
 
-| ライトモード | ダイナミックテーマ | ダークモード |
-| ---- | ---- | ---- |
-| ![lightmode](images/settings/lightmode.png)| ![dynamic](images/settings/dynamic.png) | ![dark](images/settings/dark.png) |
-
-
-
-
-
-
-
-
-
-
-### スキャン設定
-
-
-### 利用規約/プライバシーポリシー
-
-### ライセンス
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<p float="left">
+    <img src="images/settings/lightmode.png" width="150"/>
+    <img src="images/settings/dynamic.png" width="150"/>
+    <img src="images/settings/dark.png" width="150"/>
+    <img src="images/settings/scan_setting1.png" width="150"/>
+    <img src="images/settings/scan_setting2.png" width="150"/>
+    <img src="images/settings/license.png" width="150"/>
+</p>
