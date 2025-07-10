@@ -78,9 +78,7 @@ Google Play Storeに同様のアプリが多数存在するが、モダンなUI�
 
 ### QRコードをつくる
 
-URL、Wi-Fi設定、カレンダーイベント、連絡先、電話番号、メール、SMS、位置情報、テキスト、それぞれの形式のQRコードを作成する
-
-<img src="https://github.com/user-attachments/assets/034eb43c-299a-46c8-98b5-2fbbd0d97c09" width="30%"> <img src="https://github.com/user-attachments/assets/0db7e37c-c1c2-4412-afb4-5f8cf5db2c63" width="30%">
+![create](images/create/create.png)
 
 #### URL形式のQRコード作成
 
