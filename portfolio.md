@@ -247,7 +247,83 @@ URL、Wi-Fi設定、カレンダーイベント、連絡先、電話番号、メ
     <img src="images/favorite/deleted.png" width="150"/>
 </p>
 
-### 履歴/お気に入り詳細
+### 履歴詳細
+
+#### URL
+
+<p float="left">
+    <img src="images/history/detail/url/url.png" width="150"/>
+    <img src="images/history/detail/url/browser.png" width="150"/>
+    <img src="images/history/detail/url/favorite.png" width="150"/>
+    <img src="images/history/detail/url/share_dialog.png" width="150"/>
+    <img src="images/history/detail/url/share.png" width="150"/>
+    <img src="images/history/detail/url/delete_confirm.png" width="150"/>
+    <img src="images/history/detail/url/deleted.png" width="150"/>
+</p>
+
+#### Wi-Fi
+
+<p float="left">
+    <img src="images/history/detail/wifi/wifi.png" width="150"/>
+    <img src="images/history/detail/wifi/wifi_settings.png" width="150"/>
+</p>
+
+#### カレンダーイベント
+
+<p float="left">
+    <img src="images/history/detail/event/event1.png" width="150"/>
+    <img src="images/history/detail/event/event2.png" width="150"/>
+    <img src="images/history/detail/event/calender1.png" width="150"/>
+    <img src="images/history/detail/event/calender2.png" width="150"/>
+    <img src="images/history/detail/event/map.png" width="150"/>
+</p>
+
+#### 連絡先
+
+<p float="left">
+    <img src="images/history/detail/contact/contact1.png" width="150"/>
+    <img src="images/history/detail/contact/contact2.png" width="150"/>
+    <!-- <img src="images/history/detail/contact/directory1.png" width="150"/>
+    <img src="images/history/detail/contact/directory2.png" width="150"/> -->
+</p>
+
+#### 電話番号
+
+<p float="left">
+    <img src="images/history/detail/phone/phone.png" width="150"/>
+    <img src="images/history/detail/phone/tel.png" width="150"/>
+</p>
+
+#### メール
+
+<p float="left">
+    <img src="images/history/detail/mail/mail.png" width="150"/>
+    <img src="images/history/detail/mail/share.png" width="150"/>
+    <img src="images/history/detail/mail/mail_app.png" width="150"/>
+</p>
+
+#### SMS
+
+<p float="left">
+    <img src="images/history/detail/sms/sms.png" width="150"/>
+    <img src="images/history/detail/sms/sms_app.png" width="150"/>
+    <img src="images/history/detail/sms/tel.png" width="150"/>
+</p>
+
+#### 位置情報
+
+<p float="left">
+    <img src="images/history/detail/geo/geo.png" width="150"/>
+    <img src="images/history/detail/geo/map.png" width="150"/>
+</p>
+
+#### テキスト
+
+<p float="left">
+    <img src="images/history/detail/text/text.png" width="150"/>
+</p>
+
+### お気に入り詳細
 
 ### 検索一覧
 
