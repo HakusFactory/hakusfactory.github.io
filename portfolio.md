@@ -124,8 +124,6 @@ Google Play Storeに同様のアプリが多数存在するが、モダンなUI�
 
 ![detail](images/created/detail.png)
 
-### スキャン
-
 ### 履歴一覧
 
 <p float="left">
