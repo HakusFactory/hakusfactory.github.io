@@ -122,22 +122,7 @@ Google Play Storeに同様のアプリが多数存在するが、モダンなUI�
 
 ### 作成済みQRコード詳細
 
-<p float="left">
-    <img src="images/created/detail/url.png" width="150"/>
-    <img src="images/created/detail/wifi.png" width="150"/>
-    <img src="images/created/detail/event1.png" width="150"/>
-    <img src="images/created/detail/event2.png" width="150"/>
-    <img src="images/created/detail/contact1.png" width="150"/>
-    <img src="images/created/detail/contact2.png" width="150"/>
-    <img src="images/created/detail/phone.png" width="150"/>
-    <img src="images/created/detail/mail1.png" width="150"/>
-    <img src="images/created/detail/mail2.png" width="150"/>
-    <img src="images/created/detail/sms.png" width="150"/>
-    <img src="images/created/detail/geo.png" width="150"/>
-    <img src="images/created/detail/text.png" width="150"/>
-    <img src="images/created/detail/share.png" width="150"/>
-    <img src="images/created/detail/delete.png" width="150"/>
-</p>
+![detail](images/created/detail.png)
 
 ### スキャン
 
