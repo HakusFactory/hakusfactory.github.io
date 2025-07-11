@@ -118,15 +118,7 @@ Google Play Storeに同様のアプリが多数存在するが、モダンなUI�
 
 ### 作成済みQRコード一覧
 
-<p float="left">
-    <img src="images/created/list.png" width="150"/>
-    <img src="images/created/list2.png" width="150"/>
-    <img src="images/created/menu1.png" width="150"/>
-    <img src="images/created/selsected.png" width="150"/>
-    <img src="images/created/confirm.png" width="150"/>
-    <img src="images/created/all_selected.png" width="150"/>
-    <img src="images/created/empty.png" width="150"/>
-</p>
+![list](images/created/list.png)
 
 ### 作成済みQRコード詳細
 
