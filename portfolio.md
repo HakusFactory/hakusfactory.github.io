@@ -94,22 +94,7 @@ Google Play Storeに同様のアプリが多数存在するが、モダンなUI�
 
 #### 連絡先形式のQRコード作成
 
-<p float="left">
-    <img src="images/create/contact/placeholder1.png" width="150"/>
-    <img src="images/create/contact/placeholder2.png" width="150"/>
-    <img src="images/create/contact/add_phone.png" width="150"/>
-    <img src="images/create/contact/add_mail.png" width="150"/>
-    <img src="images/create/contact/phone_label_dialog.png" width="150"/>
-    <img src="images/create/contact/input1.png" width="150"/>
-    <img src="images/create/contact/mail_label_dialog.png" width="150"/>
-    <img src="images/create/contact/input2.png" width="150"/>
-    <img src="images/create/contact/input3.png" width="150"/>
-    <img src="images/create/contact/input4.png" width="150"/>
-    <img src="images/create/contact/validation.png" width="150"/>
-    <img src="images/create/contact/confirm.png" width="150"/>
-    <img src="images/create/contact/conmlete1.png" width="150"/>
-    <img src="images/create/contact/complete2.png" width="150"/>
-</p>
+![contact](images/create/contact/contact.png)
 
 #### 電話番号形式のQRコード作成
 
