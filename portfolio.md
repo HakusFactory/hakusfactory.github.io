@@ -126,17 +126,7 @@ Google Play Storeに同様のアプリが多数存在するが、モダンなUI�
 
 ### 履歴一覧
 
-<p float="left">
-    <img src="images/history/empty.png" width="150"/>
-    <img src="images/history/list1.png" width="150"/>
-    <img src="images/history/list2.png" width="150"/>
-    <img src="images/history/menu1.png" width="150"/>
-    <img src="images/history/menu2.png" width="150"/>
-    <img src="images/history/menu3.png" width="150"/>
-    <img src="images/history/selected.png" width="150"/>
-    <img src="images/history/delete_confirm.png" width="150"/>
-    <img src="images/history/deleted.png" width="150"/>
-</p>
+![list](images/history/list.png)
 
 ### お気に入り一覧
 
