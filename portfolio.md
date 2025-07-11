@@ -114,12 +114,7 @@ Google Play Storeに同様のアプリが多数存在するが、モダンなUI�
 
 #### テキスト形式のQRコード作成
 
-<p float="left">
-    <img src="images/create/text/placeholder.png" width="150"/>
-    <img src="images/create/text/input.png" width="150"/>
-    <img src="images/create/text/confirm.png" width="150"/>
-    <img src="images/create/text/complete.png" width="150"/>
-</p>
+![text](images/create/text/text.png)
 
 ### 作成済みQRコード一覧
 
