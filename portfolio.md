@@ -102,15 +102,7 @@ Google Play Storeに同様のアプリが多数存在するが、モダンなUI�
 
 #### メール形式のQRコード作成
 
-<p float="left">
-    <img src="images/create/mail/placeholder.png" width="150"/>
-    <img src="images/create/mail/input1.png" width="150"/>
-    <img src="images/create/mail/validation.png" width="150"/>
-    <img src="images/create/mail/input2.png" width="150"/>
-    <img src="images/create/mail/confirm.png" width="150"/>
-    <img src="images/create/mail/complete1.png" width="150"/>
-    <img src="images/create/mail/complete2.png" width="150"/>
-</p>
+![mail](images/create/mail/mail.png)
 
 #### SMS形式のQRコード作成
 
