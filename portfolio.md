@@ -98,13 +98,7 @@ Google Play Storeに同様のアプリが多数存在するが、モダンなUI�
 
 #### 電話番号形式のQRコード作成
 
-<p float="left">
-    <img src="images/create/phone/placeholder.png" width="150"/>
-    <img src="images/create/phone/input.png" width="150"/>
-    <img src="images/create/phone/validation.png" width="150"/>
-    <img src="images/create/phone/confirm.png" width="150"/>
-    <img src="images/create/phone/complete.png" width="150"/>
-</p>
+![phone](images/create/phone/phone.png)
 
 #### メール形式のQRコード作成
 
