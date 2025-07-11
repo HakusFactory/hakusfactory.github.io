@@ -78,43 +78,43 @@ Google Play Storeに同様のアプリが多数存在するが、モダンなUI�
 
 ### QR作成種類選択
 
-![create](images/create/create.png)
+![create](images/create/list.png)
 
 #### URL形式のQRコード作成
 
-![url](images/create/url/create_url.png)
+![url](images/create/url.png)
 
 #### Wi-Fi設定情報形式のQRコード作成
 
-![url](images/create/wifi/create_wifi.png)
+![url](images/create/wifi.png)
 
 #### カレンダーイベント形式のQRコード作成
 
-![event](images/create/event/event.png)
+![event](images/create/event.png)
 
 #### 連絡先形式のQRコード作成
 
-![contact](images/create/contact/contact.png)
+![contact](images/create/contact.png)
 
 #### 電話番号形式のQRコード作成
 
-![phone](images/create/phone/phone.png)
+![phone](images/create/phone.png)
 
 #### メール形式のQRコード作成
 
-![mail](images/create/mail/mail.png)
+![mail](images/create/mail.png)
 
 #### SMS形式のQRコード作成
 
-![sms](images/create/sms/sms.png)
+![sms](images/create/sms.png)
 
 #### 位置情報形式のQRコード作成
 
-![geo](images/create/geo/geo.png)
+![geo](images/create/geo.png)
 
 #### テキスト形式のQRコード作成
 
-![text](images/create/text/text.png)
+![text](images/create/text.png)
 
 ### 作成済みQRコード一覧
 
