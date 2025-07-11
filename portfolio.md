@@ -106,13 +106,7 @@ Google Play Storeに同様のアプリが多数存在するが、モダンなUI�
 
 #### SMS形式のQRコード作成
 
-<p float="left">
-    <img src="images/create/sms/placeholder.png" width="150"/>
-    <img src="images/create/sms/input.png" width="150"/>
-    <img src="images/create/sms/validation.png" width="150"/>
-    <img src="images/create/sms/confirm.png" width="150"/>
-    <img src="images/create/sms/complete.png" width="150"/>
-</p>
+![sms](images/create/sms/sms.png)
 
 #### 位置情報形式のQRコード作成
 
