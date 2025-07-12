@@ -156,11 +156,7 @@ Google Play Storeに同様のアプリが多数存在するが、モダンなUI�
 
 #### メール
 
-<p float="left">
-    <img src="images/history/detail/mail/mail.png" width="150"/>
-    <img src="images/history/detail/mail/share.png" width="150"/>
-    <img src="images/history/detail/mail/mail_app.png" width="150"/>
-</p>
+![mail](images/history/mail.png)
 
 #### SMS
 
