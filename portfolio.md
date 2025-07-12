@@ -148,12 +148,7 @@ Google Play Storeに同様のアプリが多数存在するが、モダンなUI�
 
 #### 連絡先
 
-<p float="left">
-    <img src="images/history/detail/contact/contact1.png" width="150"/>
-    <img src="images/history/detail/contact/contact2.png" width="150"/>
-    <!-- <img src="images/history/detail/contact/directory1.png" width="150"/>
-    <img src="images/history/detail/contact/directory2.png" width="150"/> -->
-</p>
+![contact](images/history/contact.png)
 
 #### 電話番号
 
