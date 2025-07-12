@@ -144,13 +144,7 @@ Google Play Storeに同様のアプリが多数存在するが、モダンなUI�
 
 #### カレンダーイベント
 
-<p float="left">
-    <img src="images/history/detail/event/event1.png" width="150"/>
-    <img src="images/history/detail/event/event2.png" width="150"/>
-    <img src="images/history/detail/event/calender1.png" width="150"/>
-    <img src="images/history/detail/event/calender2.png" width="150"/>
-    <img src="images/history/detail/event/map.png" width="150"/>
-</p>
+![event](images/history/event.png)
 
 #### 連絡先
 
