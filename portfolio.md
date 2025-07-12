@@ -130,14 +130,7 @@ Google Play Storeに同様のアプリが多数存在するが、モダンなUI�
 
 ### お気に入り一覧
 
-<p float="left">
-    <img src="images/favorite/empty.png" width="150"/>
-    <img src="images/favorite/list.png" width="150"/>
-    <img src="images/favorite/menu2.png" width="150"/>
-    <img src="images/favorite/menu3.png" width="150"/>
-    <img src="images/favorite/delete_confirm.png" width="150"/>
-    <img src="images/favorite/deleted.png" width="150"/>
-</p>
+![list](images/favorite/list.png)
 
 ### 履歴詳細
 
