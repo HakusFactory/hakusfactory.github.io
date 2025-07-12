@@ -136,15 +136,7 @@ Google Play Storeに同様のアプリが多数存在するが、モダンなUI�
 
 #### URL
 
-<p float="left">
-    <img src="images/history/detail/url/url.png" width="150"/>
-    <img src="images/history/detail/url/browser.png" width="150"/>
-    <img src="images/history/detail/url/favorite.png" width="150"/>
-    <img src="images/history/detail/url/share_dialog.png" width="150"/>
-    <img src="images/history/detail/url/share.png" width="150"/>
-    <img src="images/history/detail/url/delete_confirm.png" width="150"/>
-    <img src="images/history/detail/url/deleted.png" width="150"/>
-</p>
+![list](images/history/url.png)
 
 #### Wi-Fi
 
