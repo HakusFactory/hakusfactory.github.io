@@ -168,9 +168,7 @@ Google Play Storeに同様のアプリが多数存在するが、モダンなUI�
 
 #### テキスト
 
-<p float="left">
-    <img src="images/history/detail/text/text.png" width="150"/>
-</p>
+![text](images/history/text.png)
 
 ### お気に入り詳細
 
