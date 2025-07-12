@@ -136,14 +136,11 @@ Google Play Storeに同様のアプリが多数存在するが、モダンなUI�
 
 #### URL
 
-![list](images/history/url.png)
+![url](images/history/url.png)
 
 #### Wi-Fi
 
-<p float="left">
-    <img src="images/history/detail/wifi/wifi.png" width="150"/>
-    <img src="images/history/detail/wifi/wifi_settings.png" width="150"/>
-</p>
+![wifi](images/history/wifi.png)
 
 #### カレンダーイベント
 
