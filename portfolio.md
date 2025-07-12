@@ -152,10 +152,7 @@ Google Play Storeに同様のアプリが多数存在するが、モダンなUI�
 
 #### 電話番号
 
-<p float="left">
-    <img src="images/history/detail/phone/phone.png" width="150"/>
-    <img src="images/history/detail/phone/tel.png" width="150"/>
-</p>
+![phone](images/history/phone.png)
 
 #### メール
 
