@@ -133,7 +133,6 @@ Google Play Storeに同様のアプリが多数存在するが、モダンなUI�
 <p float="left">
     <img src="images/favorite/empty.png" width="150"/>
     <img src="images/favorite/list.png" width="150"/>
-    <img src="images/favorite/menu1.png" width="150"/>
     <img src="images/favorite/menu2.png" width="150"/>
     <img src="images/favorite/menu3.png" width="150"/>
     <img src="images/favorite/delete_confirm.png" width="150"/>
