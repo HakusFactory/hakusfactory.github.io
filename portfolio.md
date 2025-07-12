@@ -160,11 +160,7 @@ Google Play Storeに同様のアプリが多数存在するが、モダンなUI�
 
 #### SMS
 
-<p float="left">
-    <img src="images/history/detail/sms/sms.png" width="150"/>
-    <img src="images/history/detail/sms/sms_app.png" width="150"/>
-    <img src="images/history/detail/sms/tel.png" width="150"/>
-</p>
+![sms](images/history/sms.png)
 
 #### 位置情報
 
