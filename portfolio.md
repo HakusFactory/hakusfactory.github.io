@@ -164,10 +164,7 @@ Google Play Storeに同様のアプリが多数存在するが、モダンなUI�
 
 #### 位置情報
 
-<p float="left">
-    <img src="images/history/detail/geo/geo.png" width="150"/>
-    <img src="images/history/detail/geo/map.png" width="150"/>
-</p>
+![geo](images/history/geo.png)
 
 #### テキスト
 
