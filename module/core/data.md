@@ -3,6 +3,7 @@
 ```mermaid
 flowchart TD
 data[:core:data]
+
 data --> common
 data --> database
 data --> model
