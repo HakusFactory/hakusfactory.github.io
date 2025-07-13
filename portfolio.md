@@ -68,6 +68,8 @@ Google Play Storeに同様のアプリが多数存在するが、モダンなUI�
 
 ### スプラッシュ
 
+![splash](images/splash.png)
+
 ### 利用規約同意画面
 
 ![term](images/term/term.png)
