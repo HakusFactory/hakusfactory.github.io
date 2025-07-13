@@ -61,6 +61,33 @@
 | スキャン機能のオプション設定 | スキャンする対象の形式に合わせてスキャン精度を上げる<br>（QR CODE、AZTEC、CODE128、CODE39、CODE93、CODEBAR、DATA MATRIX、ITF、PDF417） | Google Code Scanner、MlKit |
 | アプリのテーマ切り替え | ダイナミックカラー、ダークモード | Jetpack Compose、DataStore |
 
+## モジュール構成
+
+### app
+
+* [app](module/app.md)
+
+### feature
+
+* [home](module/feature/home.md)
+* [create](module/feature/create.md)
+* [list](module/feature/list.md)
+* [search](module/feature/search.md)
+* [setting](module/feature/setting.md)
+
+### core
+
+* [common](module/core/common.md)
+* [data](module/core/data.md)
+* [datastrore](module/core/datastrore.md)
+* [designsystem](module/core/designsystem.md)
+* [domain](module/core/domain.md)
+* [model](module/core/model.md)
+
+### utils
+
+* [utils](module/utils.md)
+
 ## 画面
 
 * [スプラッシュ](screen/splash.md)
