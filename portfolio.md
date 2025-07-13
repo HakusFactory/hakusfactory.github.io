@@ -180,11 +180,34 @@ Google Play Storeに同様のアプリが多数存在するが、モダンなUI�
 
 ### 設定
 
-<p float="left">
-    <img src="images/settings/lightmode.png" width="150"/>
-    <img src="images/settings/dynamic.png" width="150"/>
-    <img src="images/settings/dark.png" width="150"/>
-    <img src="images/settings/scan_setting1.png" width="150"/>
-    <img src="images/settings/scan_setting2.png" width="150"/>
-    <img src="images/settings/license.png" width="150"/>
-</p>
+#### ダイナミックカラー
+
+| 設定 | ホーム | 備考 |
+|-----|-----|-----|
+|<img src="images/settings/dynamic/setting_off.png" width="150"/>|<img src="images/settings/dynamic/home_off.png" width="150"/>|OFF<br>OS12〜|
+|<img src="images/settings/dynamic/setting_on.png" width="150"/>|<img src="images/settings/dynamic/home_on.png" width="150"/>|ON<br>OS12〜|
+|<img src="images/settings/dynamic/OS11.png" width="150"/>|-|〜OS11|
+
+#### ダークモード
+
+![dark](images/settings/dark.png)
+
+#### 履歴の保存
+
+![history](images/settings/history.png)
+
+#### スキャン設定
+
+![scan](images/settings/scan.png)
+
+#### 利用規約
+
+![term](images/settings/term.png)
+
+#### プライバシーポリシー
+
+![policy](images/settings/policy.png)
+
+#### ライセンス
+
+![license](images/settings/license.png)
