@@ -176,27 +176,7 @@ Google Play Storeに同様のアプリが多数存在するが、モダンなUI�
 
 ### 検索一覧
 
-<p float="left">
-    <img src="images/search/empty.png" width="150"/>
-    <img src="images/search/list.png" width="150"/>
-    <img src="images/search/keyword1.png" width="150"/>
-    <img src="images/search/keyword2.png" width="150"/>
-    <img src="images/search/not_found.png" width="150"/>
-    <img src="images/search/sort_modal.png" width="150"/>
-    <img src="images/search/sort_old.png" width="150"/>
-    <img src="images/search/sort_favorite.png" width="150"/>
-    <img src="images/search/menu1.png" width="150"/>
-    <img src="images/search/menu2.png" width="150"/>
-    <img src="images/search/delete_confirm.png" width="150"/>
-    <img src="images/search/deleted.png" width="150"/>
-</p>
-
-### 検索結果詳細
-
-<p float="left">
-    <img src="images/search/detail/history.png" width="150"/>
-    <img src="images/search/detail/favorite.png" width="150"/>
-</p>
+![list](images/search/list.png)
 
 ### 設定
 
