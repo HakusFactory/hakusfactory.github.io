@@ -72,113 +72,113 @@ Google Play Storeに同様のアプリが多数存在するが、モダンなUI�
 
 ### 利用規約同意画面
 
-![term](images/term/term.png)
+![agree_terms](images/term.png)
 
 ### ホーム
 
-![home](images/home/home.png)
+![home](images/home.png)
 
 ### QR作成種類選択
 
-![create](images/create/list.png)
+![choose_create](images/create/list.png)
 
 #### URL形式のQRコード作成
 
-![url](images/create/url.png)
+![url_qr](images/create/url.png)
 
 #### Wi-Fi設定情報形式のQRコード作成
 
-![url](images/create/wifi.png)
+![wifi_qr](images/create/wifi.png)
 
 #### カレンダーイベント形式のQRコード作成
 
-![event](images/create/event.png)
+![event_qr](images/create/event.png)
 
 #### 連絡先形式のQRコード作成
 
-![contact](images/create/contact.png)
+![contact_qr](images/create/contact.png)
 
 #### 電話番号形式のQRコード作成
 
-![phone](images/create/phone.png)
+![phone_qr](images/create/phone.png)
 
 #### メール形式のQRコード作成
 
-![mail](images/create/mail.png)
+![mail_qr](images/create/mail.png)
 
 #### SMS形式のQRコード作成
 
-![sms](images/create/sms.png)
+![sms_qr](images/create/sms.png)
 
 #### 位置情報形式のQRコード作成
 
-![geo](images/create/geo.png)
+![geo_qr](images/create/geo.png)
 
 #### テキスト形式のQRコード作成
 
-![text](images/create/text.png)
+![text_qr](images/create/text.png)
 
 ### 作成済みQRコード一覧
 
-![list](images/created/list.png)
+![created_qr](images/created/list.png)
 
 ### 作成済みQRコード詳細
 
-![detail](images/created/detail.png)
+![qr_detail](images/created/detail.png)
 
 ### 履歴一覧
 
-![list](images/history/list.png)
+![history_list](images/history/list.png)
 
 ### お気に入り一覧
 
-![list](images/favorite/list.png)
+![favorite_list](images/favorite/list.png)
 
 ### 履歴詳細
 
 #### URL
 
-![url](images/history/url.png)
+![url_history](images/history/url.png)
 
 #### Wi-Fi
 
-![wifi](images/history/wifi.png)
+![wifi_history](images/history/wifi.png)
 
 #### カレンダーイベント
 
-![event](images/history/event.png)
+![event_history](images/history/event.png)
 
 #### 連絡先
 
-![contact](images/history/contact.png)
+![contact_history](images/history/contact.png)
 
 #### 電話番号
 
-![phone](images/history/phone.png)
+![phone_history](images/history/phone.png)
 
 #### メール
 
-![mail](images/history/mail.png)
+![mail_history](images/history/mail.png)
 
 #### SMS
 
-![sms](images/history/sms.png)
+![sms_history](images/history/sms.png)
 
 #### 位置情報
 
-![geo](images/history/geo.png)
+![geo_history](images/history/geo.png)
 
 #### テキスト
 
-![text](images/history/text.png)
+![text_history](images/history/text.png)
 
 ### お気に入り詳細
 
-![detail](images/favorite/detail.png)
+![favorite_detail](images/favorite/detail.png)
 
 ### 検索一覧
 
-![list](images/search/list.png)
+![search](images/search.png)
 
 ### 設定
 
@@ -192,15 +192,15 @@ Google Play Storeに同様のアプリが多数存在するが、モダンなUI�
 
 #### ダークモード
 
-![dark](images/settings/dark.png)
+![darkmode](images/settings/dark.png)
 
 #### 履歴の保存
 
-![history](images/settings/history.png)
+![history_setting](images/settings/history.png)
 
 #### スキャン設定
 
-![scan](images/settings/scan.png)
+![scan_setting](images/settings/scan.png)
 
 #### 利用規約
 
