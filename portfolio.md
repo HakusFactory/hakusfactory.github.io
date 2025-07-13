@@ -172,15 +172,7 @@ Google Play Storeに同様のアプリが多数存在するが、モダンなUI�
 
 ### お気に入り詳細
 
-<p float="left">
-    <img src="images/favorite/detail/url.png" width="150"/>
-    <img src="images/favorite/detail/share_dialog.png" width="150"/>
-    <img src="images/favorite/detail/share.png" width="150"/>
-    <img src="images/favorite/detail/confirm_delete.png" width="150"/>
-    <img src="images/favorite/detail/deleted.png" width="150"/>
-    <img src="images/favorite/detail/confirm_favorite_cancel.png" width="150"/>
-    <img src="images/favorite/detail/canceled_favorite.png" width="150"/>
-</p>
+![detail](images/favorite/detail.png)
 
 ### 検索一覧
 
