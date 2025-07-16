@@ -40,30 +40,69 @@
 | 4 | 詳細画面を見やすく整理 | 詳細画面にスキャン結果のデータを羅列しているだけのアプリを幾つか見た。<br>大抵の場合、表示されているデータを見れば何のデータかを判断できると思う。<br>けれど、項目名を併せて表示した方が誤解もなく、スッキリした見た目になるように思う。 | データを整理して表形式で表示する。<br>煩わしくない表現で項目名も表示する。 |
 | 5 | 文字を入力しやすく | QR作成機能を備えたQRスキャンアプリは多い。<br>QRを作成するときの情報入力画面で幾つか操作をしずらい点を見つけた。<br><br>・セーフエリアがない<br>・IMEアクション制御がない（次へ、決定）<br>・入力完了ボタンをタップ後にバリデーションエラーメッセージが表示されるが、入力フォームに入力形式の記載がなく少し不親切<br>・入力画面表示時に入力フォームにオートフォーカスした方が便利かも | ・セーフエリアを設定<br>・プレースホルダーに文字の入力形式を明記<br>・入力バリデーションの作成<br>・入力項目に合わせて表示するキーボードを変更（数字、英語など）<br>・IMEアクション制御（次へ、決定）<br>・入力画面表示時のオートフォーカス + キーボード表示<br>・入力フォームの枠色の設定（未入力、入力中、入力済）<br>・入力画面を離れる際に確認ダイアログを表示<br>・必須の入力項目か否かをラベルで表示 |
 
-## 言語、ライブラリ
+## 技術スタック
+
+### 言語、ライブラリ
+**<基本ロジック>**
 * Kotlin
+* Android SDK
 * Jetpack Compose
 * Flow
 * StateFlow
 * Coroutines
 * Hilt
 * Jetpack Navigation Component
+
+**<QR/バーコードスキャン>**
+* Google Code Scanner
+* MlKit
+
+**<QR作成>**
+* Zixing
+
+**<URL形式データのUI表示>**
+* jsoup（サイト名取得）
+* Coil（ファビコン表示）
+
+**<QR画像/スキャン結果の共有>**
+* FileProvider
+* app chooser（Intent）
+
+**<不揮発データの管理>**
+* DataStore（ユーザー設定情報（ダークモードのON/OFF、ダイナミックカラーのON/OFF、履歴保存の要否、スキャン設定））
+
+**<ブラウザ表示>**
+* Chrome Custom Tabs
+
+**<ナビゲーションUIの自動切り替え>**
 * Adaptive Navigation Suite
+
+**<ライセンス表示>**
 * OSS Licenses
+
+**<広告>**
 * AdMob
 
-## アーキテクチャ
+### アーキテクチャ
 * MVVM
 * Clean Architecture
 * マルチモジュール
 * Version Catalog
 * Convention Plugins
 
-## UnitTest
+### DB
+* Room
+* Tink（暗号化/複合）
+
+### UnitTest
 * JUnit4
 * Mockito
 * Truth
 * Turbine
+* Kover
+
+### CI/CD
+* circleci（ビルド、UnitTestを自動化）
 
 ## 非機能
 
