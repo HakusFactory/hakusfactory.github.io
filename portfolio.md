@@ -107,31 +107,47 @@
 ## 非機能
 
 | 分類 | 内容 |
-|-----|-----|
+| - | - |
 | 対応OS | Android OS10以降 |
 | パフォーマンス | 通常の利用でストレスを感じない動作速度 |
 | セキュリティ | アプリ内データベースに暗号化してデータ保存（Room + Tink） |
 | 可用性 | オフラインでも基本操作が可能<br>（スキャンモジュールがインストール済みの前提） |
-| UI/UX | シンプル、且つ、直感的な画面設計 |
+| UI/UX | 分かりやすくシンプル、且つ、直感的な画面設計 |
 
 ## 機能
 
-| 機能名 | 概要 | ライブラリ等 |
-|-----|-----|-----|
-| QRコード/バーコードのスキャン | 端末のカメラで読み取り、読み取ったデータを解析したのちに保存、表示する | Google Code Scanner、MlKit、Room、Tink、Jetpack Compose |
-| スキャン結果の一覧表示 | スキャン結果をリスト形式で表示 | Jetpack Compose、jsoup + Coil（ファビコン表示） |
-| スキャン結果の詳細表示 | スキャン結果の詳細データを表形式で表示 | Jetpack Compose、jsoup + Coil（ファビコン表示） |
-| スキャン結果の削除 | 一覧表示からの複数選択削除、詳細表示からの削除 | Room、Jetpack Compose |
-| スキャン結果の検索 | 任意の検索ワード、追加条件（履歴、お気に入り、各種カテゴリ）、昇順・降順を使用して検索 | Jetpack Compose |
-| スキャン結果の共有 | QR画像形式で端末内の他アプリを介して共有 | Zixing、FileProvider、app chooser（Intent） |
-| スキャン結果の他アプリ連携 | URL形式データのブラウザ表示、カレンダーイベント形式データのカレンダー保存・イベント開催場所のGoogle Map検索、<br>連絡先形式データの電話帳登録、電話番号形式データの電話発信、メール形式データのメール作成、<br>SMS形式データのSMS作成、位置情報形式データのGoogle Map検索 | Chrome Custom Tabs、app chooser（Intent） |
-| QRコードの作成 | URL、Wi-Fi設定情報、カレンダーイベント、連絡先、メール、SMS、電話番号、位置情報、テキスト（文章）形式のQRコードを作成 | Zixing |
-| 作成したQRコードの一覧表示 | 作成したQRコードをリスト形式で表示 | Jetpack Compose、jsoup + Coil（ファビコン表示） |
-| 作成したQRコードの詳細表示 | 作成したQRコードの詳細データを表形式で表示 | Jetpack Compose、jsoup + Coil（ファビコン表示） |
-| 作成したQRコードの削除 | 一覧表示からの複数選択削除、詳細表示からの削除 | Room、Jetpack Compose |
-| 作成したQRコードの共有 | QR画像形式で端末内の他アプリを介して共有 | Zixing、FileProvider、app chooser（Intent） |
-| スキャン機能のオプション設定 | スキャンする対象の形式に合わせてスキャン精度を上げる<br>（QR CODE、AZTEC、CODE128、CODE39、CODE93、CODEBAR、DATA MATRIX、ITF、PDF417） | Google Code Scanner、MlKit |
-| アプリのテーマ切り替え | ダイナミックカラー、ダークモード | Jetpack Compose、DataStore |
+| 機能名 | 概要 |
+|-|-|
+| QRコード/バーコードのスキャン | QRコード/バーコードを端末のカメラで読み取る。<br>読み取った情報を解析して結果をDBに保存する。<br>解析結果を表示する。 |
+| スキャン結果の一覧表示 | スキャン結果を要約してリスト形式で表示する。 |
+| スキャン結果の詳細表示 | スキャン結果の詳細を表形式で表示する。 |
+| スキャン結果の削除 | 一覧表示は複数選択削除、一括削除の機能を備える。<br>詳細表示も削除機能を備える。 |
+| スキャン結果の検索 | 任意の検索ワード、追加条件（履歴、お気に入り、データ形式）、昇順・降順を使用して検索する。 |
+| スキャン結果の共有 | QR画像形式で端末内の他アプリを介して共有する。 |
+| スキャン結果の他アプリ連携 | データ形式ごとに最適な連携を可能にする。<br>・URL : ブラウザ表示<br>・カレンダーイベント : カレンダー保存、イベント開催場所のGoogle Map検索<br>・連絡先 : 電話帳登録、電話発信<br>・メール : メール作成<br>・SMS : SMS作成、電話発信<br>・位置情報 : Google Map検索 |
+| QRコードの作成 | URL、Wi-Fi設定情報、カレンダーイベント、連絡先、メール、SMS、電話番号、位置情報、テキスト（文章）形式のQRコードを作成する。 |
+| 作成したQRコードの一覧表示 | 作成したQRコードをリスト形式で表示する。 |
+| 作成したQRコードの詳細表示 | 作成したQRコードの詳細を表形式で表示する。 |
+| 作成したQRコードの削除 | 一覧表示は複数選択削除、一括削除の機能を備える。<br>詳細表示も削除機能を備える。 |
+| 作成したQRコードの共有 | QR画像形式で端末内の他アプリを介して共有する。 |
+| スキャン機能のオプション設定 | スキャンする対象の形式に合わせてオプションを設定する。<br>（QR CODE、AZTEC、CODE128、CODE39、CODE93、CODEBAR、DATA MATRIX、ITF、PDF417） |
+| アプリのテーマ切り替え | ダイナミックカラーに対応する。<br>ダークモードに対応する。 |
+
+## 画面
+
+* [スプラッシュ](screen/splash.md)
+* [利用規約同意](screen/agree_terms)
+* [ホーム](screen/home.md)
+* [QR作成種類選択](screen/choose_create_qr.md)
+* [QR作成](screen/create_qr.md)
+* [作成済みQRコード一覧](screen/created_qr_list.md)
+* [作成済みQRコード詳細](screen/created_qr_detail.md)
+* [履歴一覧](screen/history_list.md)
+* [履歴詳細](screen/history_detail.md)
+* [お気に入り一覧](screen/favorite_list.md)
+* [お気に入り詳細](screen/favorite_detail.md)
+* [検索](screen/search.md)
+* [設定](screen/settings.md)
 
 ## モジュール構成
 
@@ -160,20 +176,6 @@
 
 * [utils](module/utils.md)
 
-## 画面
 
-* [スプラッシュ](screen/splash.md)
-* [利用規約同意](screen/agree_terms)
-* [ホーム](screen/home.md)
-* [QR作成種類選択](screen/choose_create_qr.md)
-* [QR作成](screen/create_qr.md)
-* [作成済みQRコード一覧](screen/created_qr_list.md)
-* [作成済みQRコード詳細](screen/created_qr_detail.md)
-* [履歴一覧](screen/history_list.md)
-* [履歴詳細](screen/history_detail.md)
-* [お気に入り一覧](screen/favorite_list.md)
-* [お気に入り詳細](screen/favorite_detail.md)
-* [検索](screen/search.md)
-* [設定](screen/settings.md)
 
 
