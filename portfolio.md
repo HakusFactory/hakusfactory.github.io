@@ -152,30 +152,31 @@
 
 ## モジュール構成
 
-### app
+### アプリ全体構成
 
-* [app](module/app.md)
+* [:app](module/app.md) - 全体の依存関係を俯瞰
 
-### feature
+### Featureモジュール
 
-* [home](module/feature/home.md)
-* [create](module/feature/create.md)
-* [list](module/feature/list.md)
-* [search](module/feature/search.md)
-* [setting](module/feature/setting.md)
+* [:feature:home](module/feature/home.md) - ホーム画面の依存関係
+* [:feature:create](module/feature/create.md) - QR作成機能の依存関係
+* [:feature:list](module/feature/list.md) - 履歴、お気に入り機能の依存関係
+* [:feature:search](module/feature/search.md) - 検索機能の依存関係
+* [:feature:setting](module/feature/setting.md) - 設定画面の依存関係
 
-### core
+### Coreモジュール
 
-* [common](module/core/common.md)
-* [data](module/core/data.md)
-* [datastrore](module/core/datastrore.md)
-* [designsystem](module/core/designsystem.md)
-* [domain](module/core/domain.md)
-* [model](module/core/model.md)
+* [:core:common](module/core/common.md) - Commonレイヤーの依存関係
+* [:core:data](module/core/data.md) - Dataレイヤーの依存関係
+* [:core:database](module/core/database.md) - DataBaseレイヤーの依存関係
+* [:core:datastrore](module/core/datastrore.md)  - DataStoreレイヤーの依存関係
+* [:core:designsystem](module/core/designsystem.md) - Designsystemレイヤーの依存関係
+* [:core:domain](module/core/domain.md) - Domainレイヤーの依存関係
+* [:core:model](module/core/model.md) - Modelレイヤーの依存関係
 
-### utils
+### Utilsモジュール
 
-* [utils](module/utils.md)
+* [utils](module/utils.md) - Utilレイヤーの依存関係
 
 
 

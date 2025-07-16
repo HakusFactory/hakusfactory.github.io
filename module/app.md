@@ -70,7 +70,6 @@ datastore --> model
 
 designsystem --> utils
 
-domain --> common
 domain --> model
 domain --> data
 domain --> utils
