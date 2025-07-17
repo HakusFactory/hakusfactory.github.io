@@ -10,12 +10,8 @@ app --> list
 app --> search
 app --> setting
 app --> utils
-app --> data
-app --> database
-app --> datastore
 app --> designsystem
 app --> domain
-app --> model
 
 subgraph feature
     home[:feature:home]
@@ -25,61 +21,46 @@ subgraph feature
     setting[:feature:setting]
 end
 
-home --> datastore
-home --> domain
-home --> model
-home --> search
+home --> common
 home --> designsystem
+home --> domain
 home --> utils
 
+create --> common
 create --> designsystem
 create --> domain
-create --> model
 create --> utils
 
-list --> search
-list --> datastore
+list --> common
 list --> designsystem
 list --> domain
-list --> model
 list --> utils
 
-search --> datastore
+search --> common
 search --> designsystem
 search --> domain
-search --> model
 search --> utils
 
-setting --> datastore
+setting --> common
 setting --> designsystem
 setting --> domain
-setting --> model
 setting --> utils
 
 subgraph core
+    designsystem[:core:designsystem]
+    domain[:core:domain]
     common[:core:common]
+    utils[:core:utils]
     data[:core:data]
     database[:core:database]
     datastore[:core:datastore]
-    designsystem[:core:designsystem]
-    domain[:core:domain]
-    model[:core:model]
 end
-
-datastore --> model
 
 designsystem --> utils
 
-domain --> model
-domain --> data
-domain --> utils
-
-model --> utils
-
 data --> common
 data --> database
-data --> model
+data --> datastore
+data --> domain
 data --> utils
-
-utils[:utils]
 ```

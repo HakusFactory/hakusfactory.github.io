@@ -4,40 +4,17 @@
 flowchart TD
 home[:feature:home]
 
-home --> datastore
-home --> domain
-home --> model
-home --> search
+home --> common
 home --> designsystem
+home --> domain
 home --> utils
 
-datastore[:core:datastore]
-datastore --> model
-
-domain[:core:domain]
-domain --> common
-domain --> model
-domain --> data
-domain --> utils
-
-model[:core:model]
-model --> utils
-
-search[:feature:search]
-search --> datastore
-search --> model
+common[:core:common]
 
 designsystem[:core:designsystem]
 designsystem --> utils
 
+domain[:core:domain]
+
 utils[:utils]
-
-data[:core:data]
-data --> common
-data --> database
-data --> model
-data --> utils
-
-database[:core:database]
-common[:core:common]
 ```

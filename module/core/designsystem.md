@@ -6,7 +6,7 @@ designsystem[:core:designsystem]
 
 designsystem --> utils
 
-utils[:utils]
+utils[:core:utils]
 ```
 
 ## 役割

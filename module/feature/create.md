@@ -4,31 +4,17 @@
 flowchart TD
 create[:feature:create]
 
+create --> common
 create --> designsystem
 create --> domain
-create --> model
 create --> utils
 
-domain[:core:domain]
-domain --> common
-domain --> model
-domain --> data
-domain --> utils
-
-model[:core:model]
-model --> utils
+common[:core:common]
 
 designsystem[:core:designsystem]
 designsystem --> utils
 
+domain[:core:domain]
+
 utils[:utils]
-
-data[:core:data]
-data --> common
-data --> database
-data --> model
-data --> utils
-
-database[:core:database]
-common[:core:common]
 ```
