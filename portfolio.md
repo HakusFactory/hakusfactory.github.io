@@ -159,9 +159,9 @@
 ### Featureモジュール
 
 * [:feature:home](module/feature/home.md) - ホーム画面の依存関係
-* [:feature:create](module/feature/create.md) - QR作成機能の依存関係
-* [:feature:list](module/feature/list.md) - 履歴、お気に入り機能の依存関係
-* [:feature:search](module/feature/search.md) - 検索機能の依存関係
+* [:feature:create](module/feature/create.md) - QR作成種類選択画面、QR作成画面、作成済みQRコード一覧画面、作成済みQRコード詳細画面の依存関係
+* [:feature:list](module/feature/list.md) - 履歴一覧画面、履歴詳細画面、お気に入り一覧画面、お気に入り詳細画面の依存関係
+* [:feature:search](module/feature/search.md) - 検索画面の依存関係
 * [:feature:setting](module/feature/setting.md) - 設定画面の依存関係
 
 ### Coreモジュール
@@ -172,12 +172,5 @@
 * [:core:datastrore](module/core/datastrore.md)  - DataStoreレイヤーの依存関係
 * [:core:designsystem](module/core/designsystem.md) - Designsystemレイヤーの依存関係
 * [:core:domain](module/core/domain.md) - Domainレイヤーの依存関係
-* [:core:model](module/core/model.md) - Modelレイヤーの依存関係
-
-### Utilsモジュール
-
-* [utils](module/utils.md) - Utilレイヤーの依存関係
-
-
-
+* [:core:utils](module/core/utils.md) - Utilsレイヤーの依存関係
 
