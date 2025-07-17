@@ -19,3 +19,7 @@ common[:core:common]
 database[:core:database]
 utils[:core:utils]
 ```
+
+## 役割
+* Repository実装クラスを配置
+* RepositoryのDIモジュールを配置

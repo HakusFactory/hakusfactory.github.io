@@ -7,3 +7,8 @@ datastore --> domain
 
 domain[:core:domain]
 ```
+
+## 役割
+DataStore関連ロジックを配置
+  * インタフェース
+  * DIモジュール
