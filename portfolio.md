@@ -190,21 +190,25 @@
 
 ### Featureモジュール
 
-* [:feature:home](module/feature/home.md) - ホーム画面の依存関係
-* [:feature:create](module/feature/create.md) - QR作成種類選択画面、QR作成画面、作成済みQRコード一覧画面、作成済みQRコード詳細画面の依存関係
-* [:feature:list](module/feature/list.md) - 履歴一覧画面、履歴詳細画面、お気に入り一覧画面、お気に入り詳細画面の依存関係
-* [:feature:search](module/feature/search.md) - 検索画面の依存関係
-* [:feature:setting](module/feature/setting.md) - 設定画面の依存関係
+各画面が依存するモジュール構成
+
+* [:feature:home](module/feature/home.md) - ホーム
+* [:feature:create](module/feature/create.md) - QR作成種類選択、QR作成、作成済みQRコード一覧、作成済みQRコード詳細
+* [:feature:list](module/feature/list.md) - 履歴一覧、履歴詳細、お気に入り一覧、お気に入り詳細
+* [:feature:search](module/feature/search.md) - 検索
+* [:feature:setting](module/feature/setting.md) - 設定
 
 ### Coreモジュール
 
-* [:core:common](module/core/common.md) - Commonレイヤーの依存関係
-* [:core:data](module/core/data.md) - Dataレイヤーの依存関係
-* [:core:database](module/core/database.md) - DataBaseレイヤーの依存関係
-* [:core:datastrore](module/core/datastrore.md)  - DataStoreレイヤーの依存関係
-* [:core:designsystem](module/core/designsystem.md) - Designsystemレイヤーの依存関係
-* [:core:domain](module/core/domain.md) - Domainレイヤーの依存関係
-* [:core:utils](module/core/utils.md) - Utilsレイヤーの依存関係
+各レイヤーが依存するモジュール構成
+
+* [:core:common](module/core/common.md) - Commonレイヤー
+* [:core:data](module/core/data.md) - Dataレイヤー
+* [:core:database](module/core/database.md) - DataBaseレイヤー
+* [:core:datastrore](module/core/datastrore.md)  - DataStoreレイヤー
+* [:core:designsystem](module/core/designsystem.md) - Designsystemレイヤー
+* [:core:domain](module/core/domain.md) - Domainレイヤー
+* [:core:utils](module/core/utils.md) - Utilsレイヤー
 
 ## 実装上の工夫
 
