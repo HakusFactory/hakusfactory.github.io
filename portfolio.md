@@ -134,7 +134,7 @@
 * Kover
 
 ### CI/CD
-* CircleCI（ビルド、UnitTestを自動化）
+* CircleCI（UnitTest、Firebase AppDistributionへの配布）
 
 ## 非機能
 
